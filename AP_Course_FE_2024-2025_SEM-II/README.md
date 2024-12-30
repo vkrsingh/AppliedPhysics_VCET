@@ -45,6 +45,19 @@
 
 ---
 
+### Assessment:
+**Internal Assessment Test (IAT) for 15 marks each:**
+• IA will consist of Two Compulsory Internal Assessment Tests. Approximately 40% to
+50% of the syllabus content must be covered in the IAT-I and the remaining 40% to
+50% of the syllabus content must be covered in the IAT-II.
+
+**Term Work Marks:** 25 Marks (Total marks) = 10 Marks (Experiment) + 10 Marks Project + 5
+Marks (Attendance)
+
+**Project work:** Execution of project as per the plan submitted in semester-I , A working model or a
+simulation model or a study report leading to a conclusion as anticipated in semester –I is required to
+be used for awarding marks. A proper rubric should be framed.
+
 ## End Semester Theory Examination:
 
 ### Question Paper Format:
