@@ -1,6 +1,6 @@
 # AppliedPhysics_VCET
 
-# Applied Physics (Code: BSC 102) Repository  
+# Applied Physics Course Repository  
 
 Welcome to the repository for **Applied Physics** for the academic year **2024-2025**. This course is taught as part of the **First-Year Engineering program** at **Vidyavardhini's College of Engineering & Technology (VCET)**, affiliated with the **University of Mumbai**, and follows the guidelines of **NEP 2020**.  
 
