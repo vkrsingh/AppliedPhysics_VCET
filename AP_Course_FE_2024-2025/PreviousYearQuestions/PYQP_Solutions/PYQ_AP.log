@@ -1,0 +1,1310 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.21)  11 DEC 2024 23:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**PYQ_AP.tex
+(./PYQ_AP.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen147
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks19
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks20
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count274
+\mult@box=\box52
+\multicol@leftmargin=\dimen156
+\c@unbalance=\count275
+\c@collectmore=\count276
+\doublecol@number=\count277
+\multicoltolerance=\count278
+\multicolpretolerance=\count279
+\full@width=\dimen157
+\page@free=\dimen158
+\premulticols=\dimen159
+\postmulticols=\dimen160
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box53
+\last@line=\box54
+\maxbalancingoverflow=\dimen161
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@firstbox=\box57
+\mult@gfirstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\c@minrows=\count280
+\c@columnbadness=\count281
+\c@finalcolumnbadness=\count282
+\last@try=\dimen162
+\multicolovershoot=\dimen163
+\multicolundershoot=\dimen164
+\mult@nat@firstbox=\box95
+\colbreak@box=\box96
+\mc@col@check@num=\count283
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen165
+\Gin@req@width=\dimen166
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip54
+\f@nch@O@elh=\skip55
+\f@nch@O@erh=\skip56
+\f@nch@O@olh=\skip57
+\f@nch@O@orh=\skip58
+\f@nch@O@elf=\skip59
+\f@nch@O@erf=\skip60
+\f@nch@O@olf=\skip61
+\f@nch@O@orf=\skip62
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box97
+\extrarowheight=\dimen168
+\NC@list=\toks23
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box98
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count284
+\@cmidlb=\count285
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count286
+\@lastruleclass=\count287
+\@thisrulewidth=\dimen181
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen182
+\TX@old@table=\dimen183
+\TX@old@col=\dimen184
+\TX@target=\dimen185
+\TX@delta=\dimen186
+\TX@cols=\count288
+\TX@ftn=\toks24
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count289
+\calc@Bcount=\count290
+\calc@Adimen=\dimen187
+\calc@Bdimen=\dimen188
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count291
+\calc@Cskip=\skip67
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen189
+\ESO@tempdimb=\dimen190
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+))
+\AM@pagewidth=\dimen191
+\AM@pageheight=\dimen192
+\AM@fboxrule=\dimen193
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count292
+\AM@pagebox=\box99
+\AM@global@opts=\toks25
+\AM@pagecnt=\count293
+\AM@toc@title=\toks26
+\c@AM@survey=\count294
+\AM@templatesizebox=\box100
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count295
+\c@Blindtext=\count296
+\c@blind@countparstart=\count297
+\blind@countxx=\count298
+\blindtext@numBlindtext=\count299
+\blind@countyy=\count300
+\c@blindlist=\count301
+\c@blindlistlevel=\count302
+\c@blindlist@level=\count303
+\blind@listitem=\count304
+\c@blind@listcount=\count305
+\c@blind@levelcount=\count306
+\blind@mathformula=\count307
+\blind@Mathformula=\count308
+\c@blind@randomcount=\count309
+\c@blind@randommax=\count310
+\c@blind@pangramcount=\count311
+\c@blind@pangrammax=\count312
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks27
+\AP@partial=\box101
+\AP@footins=\box102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count313
+\l__pdf_internal_box=\box103
+)
+(./PYQ_AP.aux)
+\openout1 = `PYQ_AP.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count314
+\scratchdimen=\dimen194
+\scratchbox=\box104
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen195
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<vcet-logo.jpeg, id=1, 652.4375pt x 653.44125pt>
+File: vcet-logo.jpeg Graphic file (type jpg)
+<use vcet-logo.jpeg>
+Package pdftex.def Info: vcet-logo.jpeg  used on input line 30.
+(pdftex.def)             Requested size: 65.24756pt x 65.34795pt.
+
+Overfull \hbox (18.2692pt too wide) in paragraph at lines 30--31
+[][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./vcet-logo.jpeg>]
+<Mod-1.pdf, id=11, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf>
+Package pdftex.def Info: Mod-1.pdf  used on input line 142.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf>
+Package pdftex.def Info: Mod-1.pdf  used on input line 142.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+<Mod-1.pdf, id=14, page=1, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 1>
+Package pdftex.def Info: Mod-1.pdf , page1 used on input line 142.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 1>
+Package pdftex.def Info: Mod-1.pdf , page1 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 1>
+Package pdftex.def Info: Mod-1.pdf , page1 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 1>
+Package pdftex.def Info: Mod-1.pdf , page1 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 1>
+Package pdftex.def Info: Mod-1.pdf , page1 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [2 <./Mod-1.pdf>]
+<Mod-1.pdf, id=50, page=2, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 2>
+Package pdftex.def Info: Mod-1.pdf , page2 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 2>
+Package pdftex.def Info: Mod-1.pdf , page2 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 2>
+Package pdftex.def Info: Mod-1.pdf , page2 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+
+[3 <./Mod-1.pdf>]
+<Mod-1.pdf, id=61, page=3, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 3>
+Package pdftex.def Info: Mod-1.pdf , page3 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 3>
+Package pdftex.def Info: Mod-1.pdf , page3 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 3>
+Package pdftex.def Info: Mod-1.pdf , page3 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [4 <./Mod-1.pdf>]
+<Mod-1.pdf, id=78, page=4, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 4>
+Package pdftex.def Info: Mod-1.pdf , page4 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 4>
+Package pdftex.def Info: Mod-1.pdf , page4 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 4>
+Package pdftex.def Info: Mod-1.pdf , page4 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [5 <./Mod-1.pdf>]
+<Mod-1.pdf, id=85, page=5, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 5>
+Package pdftex.def Info: Mod-1.pdf , page5 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 5>
+Package pdftex.def Info: Mod-1.pdf , page5 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 5>
+Package pdftex.def Info: Mod-1.pdf , page5 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [6 <./Mod-1.pdf>]
+<Mod-1.pdf, id=105, page=6, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 6>
+Package pdftex.def Info: Mod-1.pdf , page6 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 6>
+Package pdftex.def Info: Mod-1.pdf , page6 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 6>
+Package pdftex.def Info: Mod-1.pdf , page6 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+
+[7 <./Mod-1.pdf>]
+<Mod-1.pdf, id=113, page=7, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 7>
+Package pdftex.def Info: Mod-1.pdf , page7 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 7>
+Package pdftex.def Info: Mod-1.pdf , page7 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 7>
+Package pdftex.def Info: Mod-1.pdf , page7 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [8 <./Mod-1.pdf>]
+<Mod-1.pdf, id=126, page=8, 597.50786pt x 845.04686pt>
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 8>
+Package pdftex.def Info: Mod-1.pdf , page8 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 8>
+Package pdftex.def Info: Mod-1.pdf , page8 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-1.pdf Graphic file (type pdf)
+<use Mod-1.pdf, page 8>
+Package pdftex.def Info: Mod-1.pdf , page8 used on input line 142.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [9 <./Mod-1.pdf>]
+<Mod-2and3.pdf, id=131, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf>
+Package pdftex.def Info: Mod-2and3.pdf  used on input line 144.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf>
+Package pdftex.def Info: Mod-2and3.pdf  used on input line 144.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Mod-2and3.pdf, id=134, page=1, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 1>
+Package pdftex.def Info: Mod-2and3.pdf , page1 used on input line 144.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 1>
+Package pdftex.def Info: Mod-2and3.pdf , page1 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 1>
+Package pdftex.def Info: Mod-2and3.pdf , page1 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 1>
+Package pdftex.def Info: Mod-2and3.pdf , page1 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 1>
+Package pdftex.def Info: Mod-2and3.pdf , page1 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [10 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=153, page=2, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 2>
+Package pdftex.def Info: Mod-2and3.pdf , page2 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 2>
+Package pdftex.def Info: Mod-2and3.pdf , page2 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 2>
+Package pdftex.def Info: Mod-2and3.pdf , page2 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[11 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=159, page=3, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 3>
+Package pdftex.def Info: Mod-2and3.pdf , page3 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 3>
+Package pdftex.def Info: Mod-2and3.pdf , page3 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 3>
+Package pdftex.def Info: Mod-2and3.pdf , page3 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [12 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=166, page=4, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 4>
+Package pdftex.def Info: Mod-2and3.pdf , page4 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 4>
+Package pdftex.def Info: Mod-2and3.pdf , page4 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 4>
+Package pdftex.def Info: Mod-2and3.pdf , page4 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [13 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=173, page=5, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 5>
+Package pdftex.def Info: Mod-2and3.pdf , page5 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 5>
+Package pdftex.def Info: Mod-2and3.pdf , page5 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 5>
+Package pdftex.def Info: Mod-2and3.pdf , page5 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [14 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=184, page=6, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 6>
+Package pdftex.def Info: Mod-2and3.pdf , page6 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 6>
+Package pdftex.def Info: Mod-2and3.pdf , page6 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 6>
+Package pdftex.def Info: Mod-2and3.pdf , page6 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [15 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=189, page=7, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 7>
+Package pdftex.def Info: Mod-2and3.pdf , page7 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 7>
+Package pdftex.def Info: Mod-2and3.pdf , page7 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 7>
+Package pdftex.def Info: Mod-2and3.pdf , page7 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [16 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=214, page=8, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 8>
+Package pdftex.def Info: Mod-2and3.pdf , page8 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 8>
+Package pdftex.def Info: Mod-2and3.pdf , page8 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 8>
+Package pdftex.def Info: Mod-2and3.pdf , page8 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [17 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=221, page=9, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 9>
+Package pdftex.def Info: Mod-2and3.pdf , page9 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 9>
+Package pdftex.def Info: Mod-2and3.pdf , page9 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 9>
+Package pdftex.def Info: Mod-2and3.pdf , page9 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [18 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=226, page=10, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 10>
+Package pdftex.def Info: Mod-2and3.pdf , page10 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 10>
+Package pdftex.def Info: Mod-2and3.pdf , page10 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 10>
+Package pdftex.def Info: Mod-2and3.pdf , page10 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [19 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=237, page=11, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 11>
+Package pdftex.def Info: Mod-2and3.pdf , page11 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 11>
+Package pdftex.def Info: Mod-2and3.pdf , page11 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 11>
+Package pdftex.def Info: Mod-2and3.pdf , page11 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [20 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=243, page=12, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 12>
+Package pdftex.def Info: Mod-2and3.pdf , page12 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 12>
+Package pdftex.def Info: Mod-2and3.pdf , page12 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 12>
+Package pdftex.def Info: Mod-2and3.pdf , page12 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[21 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=261, page=13, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 13>
+Package pdftex.def Info: Mod-2and3.pdf , page13 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 13>
+Package pdftex.def Info: Mod-2and3.pdf , page13 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 13>
+Package pdftex.def Info: Mod-2and3.pdf , page13 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [22 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=268, page=14, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 14>
+Package pdftex.def Info: Mod-2and3.pdf , page14 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 14>
+Package pdftex.def Info: Mod-2and3.pdf , page14 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 14>
+Package pdftex.def Info: Mod-2and3.pdf , page14 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [23 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=275, page=15, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 15>
+Package pdftex.def Info: Mod-2and3.pdf , page15 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 15>
+Package pdftex.def Info: Mod-2and3.pdf , page15 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 15>
+Package pdftex.def Info: Mod-2and3.pdf , page15 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [24 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=283, page=16, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 16>
+Package pdftex.def Info: Mod-2and3.pdf , page16 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 16>
+Package pdftex.def Info: Mod-2and3.pdf , page16 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 16>
+Package pdftex.def Info: Mod-2and3.pdf , page16 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [25 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=298, page=17, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 17>
+Package pdftex.def Info: Mod-2and3.pdf , page17 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 17>
+Package pdftex.def Info: Mod-2and3.pdf , page17 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 17>
+Package pdftex.def Info: Mod-2and3.pdf , page17 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [26 <./Mod-2and3.pdf>]
+<Mod-2and3.pdf, id=306, page=18, 614.295pt x 794.97pt>
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 18>
+Package pdftex.def Info: Mod-2and3.pdf , page18 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 18>
+Package pdftex.def Info: Mod-2and3.pdf , page18 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-2and3.pdf Graphic file (type pdf)
+<use Mod-2and3.pdf, page 18>
+Package pdftex.def Info: Mod-2and3.pdf , page18 used on input line 144.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [27 <./Mod-2and3.pdf>]
+<Mod-4.pdf, id=313, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf>
+Package pdftex.def Info: Mod-4.pdf  used on input line 146.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf>
+Package pdftex.def Info: Mod-4.pdf  used on input line 146.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Mod-4.pdf, id=316, page=1, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 1>
+Package pdftex.def Info: Mod-4.pdf , page1 used on input line 146.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 1>
+Package pdftex.def Info: Mod-4.pdf , page1 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 1>
+Package pdftex.def Info: Mod-4.pdf , page1 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 1>
+Package pdftex.def Info: Mod-4.pdf , page1 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 1>
+Package pdftex.def Info: Mod-4.pdf , page1 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [28 <./Mod-4.pdf>]
+<Mod-4.pdf, id=343, page=2, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 2>
+Package pdftex.def Info: Mod-4.pdf , page2 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 2>
+Package pdftex.def Info: Mod-4.pdf , page2 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 2>
+Package pdftex.def Info: Mod-4.pdf , page2 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [29 <./Mod-4.pdf>]
+<Mod-4.pdf, id=350, page=3, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 3>
+Package pdftex.def Info: Mod-4.pdf , page3 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 3>
+Package pdftex.def Info: Mod-4.pdf , page3 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 3>
+Package pdftex.def Info: Mod-4.pdf , page3 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [30 <./Mod-4.pdf>]
+<Mod-4.pdf, id=388, page=4, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 4>
+Package pdftex.def Info: Mod-4.pdf , page4 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 4>
+Package pdftex.def Info: Mod-4.pdf , page4 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 4>
+Package pdftex.def Info: Mod-4.pdf , page4 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [31 <./Mod-4.pdf>]
+<Mod-4.pdf, id=394, page=5, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 5>
+Package pdftex.def Info: Mod-4.pdf , page5 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 5>
+Package pdftex.def Info: Mod-4.pdf , page5 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 5>
+Package pdftex.def Info: Mod-4.pdf , page5 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[32 <./Mod-4.pdf>]
+<Mod-4.pdf, id=399, page=6, 614.295pt x 794.97pt>
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 6>
+Package pdftex.def Info: Mod-4.pdf , page6 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 6>
+Package pdftex.def Info: Mod-4.pdf , page6 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-4.pdf Graphic file (type pdf)
+<use Mod-4.pdf, page 6>
+Package pdftex.def Info: Mod-4.pdf , page6 used on input line 146.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [33 <./Mod-4.pdf>]
+<Mod-5.pdf, id=404, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf>
+Package pdftex.def Info: Mod-5.pdf  used on input line 148.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf>
+Package pdftex.def Info: Mod-5.pdf  used on input line 148.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Mod-5.pdf, id=407, page=1, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 1>
+Package pdftex.def Info: Mod-5.pdf , page1 used on input line 148.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 1>
+Package pdftex.def Info: Mod-5.pdf , page1 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 1>
+Package pdftex.def Info: Mod-5.pdf , page1 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 1>
+Package pdftex.def Info: Mod-5.pdf , page1 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 1>
+Package pdftex.def Info: Mod-5.pdf , page1 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [34 <./Mod-5.pdf>]
+<Mod-5.pdf, id=442, page=2, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 2>
+Package pdftex.def Info: Mod-5.pdf , page2 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 2>
+Package pdftex.def Info: Mod-5.pdf , page2 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 2>
+Package pdftex.def Info: Mod-5.pdf , page2 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [35 <./Mod-5.pdf>]
+<Mod-5.pdf, id=459, page=3, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 3>
+Package pdftex.def Info: Mod-5.pdf , page3 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 3>
+Package pdftex.def Info: Mod-5.pdf , page3 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 3>
+Package pdftex.def Info: Mod-5.pdf , page3 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[36 <./Mod-5.pdf>]
+<Mod-5.pdf, id=465, page=4, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 4>
+Package pdftex.def Info: Mod-5.pdf , page4 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 4>
+Package pdftex.def Info: Mod-5.pdf , page4 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 4>
+Package pdftex.def Info: Mod-5.pdf , page4 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [37 <./Mod-5.pdf>]
+<Mod-5.pdf, id=476, page=5, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 5>
+Package pdftex.def Info: Mod-5.pdf , page5 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 5>
+Package pdftex.def Info: Mod-5.pdf , page5 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 5>
+Package pdftex.def Info: Mod-5.pdf , page5 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [38 <./Mod-5.pdf>]
+<Mod-5.pdf, id=483, page=6, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 6>
+Package pdftex.def Info: Mod-5.pdf , page6 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 6>
+Package pdftex.def Info: Mod-5.pdf , page6 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 6>
+Package pdftex.def Info: Mod-5.pdf , page6 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [39 <./Mod-5.pdf>]
+<Mod-5.pdf, id=489, page=7, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 7>
+Package pdftex.def Info: Mod-5.pdf , page7 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 7>
+Package pdftex.def Info: Mod-5.pdf , page7 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 7>
+Package pdftex.def Info: Mod-5.pdf , page7 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[40 <./Mod-5.pdf>]
+<Mod-5.pdf, id=495, page=8, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 8>
+Package pdftex.def Info: Mod-5.pdf , page8 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 8>
+Package pdftex.def Info: Mod-5.pdf , page8 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 8>
+Package pdftex.def Info: Mod-5.pdf , page8 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [41 <./Mod-5.pdf>]
+<Mod-5.pdf, id=501, page=9, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 9>
+Package pdftex.def Info: Mod-5.pdf , page9 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 9>
+Package pdftex.def Info: Mod-5.pdf , page9 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 9>
+Package pdftex.def Info: Mod-5.pdf , page9 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [42 <./Mod-5.pdf>]
+<Mod-5.pdf, id=513, page=10, 614.295pt x 794.97pt>
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 10>
+Package pdftex.def Info: Mod-5.pdf , page10 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 10>
+Package pdftex.def Info: Mod-5.pdf , page10 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Mod-5.pdf Graphic file (type pdf)
+<use Mod-5.pdf, page 10>
+Package pdftex.def Info: Mod-5.pdf , page10 used on input line 148.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [43 <./Mod-5.pdf>]
+<Mod-6.pdf, id=519, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf>
+Package pdftex.def Info: Mod-6.pdf  used on input line 150.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf>
+Package pdftex.def Info: Mod-6.pdf  used on input line 150.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+<Mod-6.pdf, id=522, page=1, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 1>
+Package pdftex.def Info: Mod-6.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 1>
+Package pdftex.def Info: Mod-6.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 1>
+Package pdftex.def Info: Mod-6.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 1>
+Package pdftex.def Info: Mod-6.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 1>
+Package pdftex.def Info: Mod-6.pdf , page1 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+
+[44 <./Mod-6.pdf>]
+<Mod-6.pdf, id=567, page=2, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 2>
+Package pdftex.def Info: Mod-6.pdf , page2 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 2>
+Package pdftex.def Info: Mod-6.pdf , page2 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 2>
+Package pdftex.def Info: Mod-6.pdf , page2 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [45 <./Mod-6.pdf>]
+<Mod-6.pdf, id=572, page=3, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 3>
+Package pdftex.def Info: Mod-6.pdf , page3 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 3>
+Package pdftex.def Info: Mod-6.pdf , page3 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 3>
+Package pdftex.def Info: Mod-6.pdf , page3 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [46 <./Mod-6.pdf>]
+<Mod-6.pdf, id=578, page=4, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 4>
+Package pdftex.def Info: Mod-6.pdf , page4 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 4>
+Package pdftex.def Info: Mod-6.pdf , page4 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 4>
+Package pdftex.def Info: Mod-6.pdf , page4 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [47 <./Mod-6.pdf>]
+<Mod-6.pdf, id=594, page=5, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 5>
+Package pdftex.def Info: Mod-6.pdf , page5 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 5>
+Package pdftex.def Info: Mod-6.pdf , page5 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 5>
+Package pdftex.def Info: Mod-6.pdf , page5 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+
+[48 <./Mod-6.pdf>]
+<Mod-6.pdf, id=599, page=6, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 6>
+Package pdftex.def Info: Mod-6.pdf , page6 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 6>
+Package pdftex.def Info: Mod-6.pdf , page6 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 6>
+Package pdftex.def Info: Mod-6.pdf , page6 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [49 <./Mod-6.pdf>]
+<Mod-6.pdf, id=607, page=7, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 7>
+Package pdftex.def Info: Mod-6.pdf , page7 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 7>
+Package pdftex.def Info: Mod-6.pdf , page7 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 7>
+Package pdftex.def Info: Mod-6.pdf , page7 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [50 <./Mod-6.pdf>]
+<Mod-6.pdf, id=614, page=8, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 8>
+Package pdftex.def Info: Mod-6.pdf , page8 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 8>
+Package pdftex.def Info: Mod-6.pdf , page8 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 8>
+Package pdftex.def Info: Mod-6.pdf , page8 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [51 <./Mod-6.pdf>]
+<Mod-6.pdf, id=621, page=9, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 9>
+Package pdftex.def Info: Mod-6.pdf , page9 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 9>
+Package pdftex.def Info: Mod-6.pdf , page9 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 9>
+Package pdftex.def Info: Mod-6.pdf , page9 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+
+[52 <./Mod-6.pdf>]
+<Mod-6.pdf, id=630, page=10, 597.50786pt x 845.04686pt>
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 10>
+Package pdftex.def Info: Mod-6.pdf , page10 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 10>
+Package pdftex.def Info: Mod-6.pdf , page10 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+File: Mod-6.pdf Graphic file (type pdf)
+<use Mod-6.pdf, page 10>
+Package pdftex.def Info: Mod-6.pdf , page10 used on input line 150.
+(pdftex.def)             Requested size: 562.12244pt x 795.00179pt.
+ [53 <./Mod-6.pdf>] (./PYQ_AP.aux) ) 
+Here is how much of TeX's memory you used:
+ 5395 strings out of 478287
+ 84199 string characters out of 5849289
+ 383808 words of memory out of 5000000
+ 23510 multiletter control sequences out of 15000+600000
+ 478416 words of font info for 64 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,17n,75p,366b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfbx1000.pfb>
+Output written on PYQ_AP.pdf (53 pages, 9711193 bytes).
+PDF statistics:
+ 663 PDF objects out of 1000 (max. 8388607)
+ 383 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+
