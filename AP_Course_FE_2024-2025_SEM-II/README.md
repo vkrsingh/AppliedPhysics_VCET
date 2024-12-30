@@ -29,6 +29,21 @@
 
 ---
 
+## Detailed Syllabus
+
+| Sr. No. | Name of Module                 | Detailed Content                                                                                                                                                                      | Hours | CO Mapping |
+|---------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|------------|
+| -       | **Prerequisite**              | Unit and Dimensions, Wave optics, Piezoelectric effect, Wheatstone bridge, Potentiometer, Wave-particle duality.                                                                    | -     | -          |
+| 1       | **Introduction**              | Preliminary idea of physical measurements: Principle of Measurement, Error of Measurement, Correction, Correctness of Measurement, Reliability of Measurements, Verification, Calibration, Measuring Instruments: Measuring range, Sensitivity, Scale Intervals, Response time, Repeatability, Inaccuracy, Precision, Accuracy. Sources of error: Static error, Environmental error, Characteristic error, Dynamic error. Statistical treatment of errors: Sample mean, Sample standard deviation, Population mean, Population standard deviation, Principles of least squares. | 6     | CO1        |
+| 2       | **Measurements by light – Wave Interference** | Significance of monochromatic light in interference, Interferometry applied to flatness testing, Surface contour test.                                                              | 4     | CO2        |
+| 3       | **Transducers**               | Transducers: Classification by function, classification by performance, classification by output. Developments in transducer technology: Solid-state transducer, Optical transducers, Piezoelectric Transducers. Resistive Transducers: Potentiometer, Strain Gauges, Resistive Temperature Transducers. Inductive Transducers: LVDT. Optical measurement system: Thermal photo detectors. | 4     | CO3        |
+| 4       | **Solid state sensors**       | Hall Effect, Measurement of Hall voltage, Piezoelectric effect and its use as source in Ultrasonic systems, Its application in flow measurements, Ultrasonic distance meter.         | 4     | CO4        |
+| 5       | **Temperature and its measurements** | Concept of heat, Temperature and its measurements, Bimetallic thermometers, Platinum Resistance thermometers, Thermoelectric thermometers. Negative Temperature Coefficient (NTC) Thermistors, Factors for the selection of a thermometer for a particular use, Temperature range and comparison of various thermometers. Calibration of PT-100 for temperature measurement. | 4     | CO5        |
+| 6       | **Nanotechnology**            | Introduction to nanotechnology, Properties (optical, electrical, structural, mechanical), Importance of surface-to-volume ratio, Bonding in solids (Van der Waals interactions), Scanning Electron Microscope (SEM), Transmission Electron Microscope (TEM), Atomic Force Microscope (AFM), Applications in sensing toxic gases, gas sensing capacitors, Introduction to lithography, water purification. | 4     | CO6        |
+
+---
+
+
 ## Textbooks:
 
 1. *Engineering Metrology* by R.K. Jain (Khanna Publication)
