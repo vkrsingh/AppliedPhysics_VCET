@@ -1,0 +1,108 @@
+# Mod-1: Physics of Measurement (Introduction)
+
+
+**What is Metrology ?**
+
+The word "metrology" has a long tradition and is derived from the Greek word for measure. 
+
+It is well-known saying that the knowledge about anything is complete only when it can be expressed in numbers and something is known about it. Thus for every kind of quantity measured, there must be a unit to measure it and express it in numbers of that unit. Further, in order that this unit is followed by all and not one who is taking the measurements, there must be a universal standard and the various units for various parameters of importance must be standardised. Most important parameter in metrology is the 'length' which can be measured in several forms and in several ways.
+
+Measurements play a vital role in every field of investigation and present day scientific and technological progress has resulted from progress in the field of measurements. In general, measurements are made to increase our knowledge and understanding of the world with a view to lead a better life. Measurement science is vital for trade and commerce and is the basis of modern science and technology.
+
+## Preliminary Idea of Physical Measurements
+
+**Measuring Means**  
+The means of measurements could be classified as follows:
+
+1. Standards (Reference masters or setting standards)-These are used to reproduce one or several definite values of a given quantity.
+2. Fixed gauges-These are used to check the dimensions, form, and position of product features.
+3. Measuring instruments These are used to determine the values of the measured quantity.
+
+**Physical Measurements**
+
+Measurement is a complex of operations carried out by means of measuring instruments to determine the numerical value of the size which describes the object of measurement.
+
+A physical measurement could be defined as the act of deriving quantitative information about a physical object or action by comparison with a reference. It will be noted from this definition that there are three important elements of a measurement, viz, 
+1.  **measurand**, i.e. the physical quantity or property like length, angle etc. being measured, 
+2. **comparison or comparator**, i.e. the means of comparing measurand with some reference to render a judgement and 
+4. **reference**, i.e. the physical quantity or property to which quantitative comparisons are made. 
+
+All these three terms would be very clear from the following example of a direct measurement using a calibrated fixed reference. Say, a mechanic has to measure the length of a surface table (measurand). For this, first he lays his rule (reference) alongside the table; he then carefully aligns the zero end of his rule with one end of the table; and finally he compares compa the length of table (measurand) with the graduation on his rule (reference) by eye (comparator).
+
+## Important terms and definations
+
+**Principle of measurement:** It is the physical phenomenon utilised in the measurement.
+
+**Error of measurement:** It is the difference between the true value of the size being measured and the value found by measurement. Error pertains to a measurement and not to an instrument.
+
+**Correction:** It is the amount which should be algebraically added to the indicated value to obtain the actual value of the size being measured. The correction is numerically equal to the error, but opposite in sign.
+
+**Correctness of measurement:** It is quantitative characteristic showing how close to zero are the systematic errors of measurement results.
+
+**Reliability of measurement:** It is a qualitative characteristic which implies confidence in the measured results depending on whether or not the frequency distribution characteristics of their deviations from the true values of the corresponding quantities are known.
+
+**Verification:** It is the process of testing an instrument for the purpose of assessing the indication errors and determining whether setting standards or measuring instruments meet the prescribed specifications.
+
+**Calibration:** It is the process of determining the values of the quantity being measured corresponding to a pre-established arbitrary scale.
+
+## Measuring Instruments
+
+- Measuring Instruments are measuring devices that transform the measured quantity or a related quantity into an indication or information.
+- Measuring instruments can either indicate directly the value of the measured quantity or only indicate its equality to a known measure of the same quantity (e.g. equal arm balance, or null detecting galvanometer). 
+- They may also indicate the value of the small difference between the measured quantity and the measure having a value very near to it (comparator).
+- Measuring instruments usually utilise a measuring sequence in which the measured quantity is transformed into a quantity perceptible to the observer (length, angle, sound, luminous contrast).
+
+**Note:**
+Measuring instruments may be used in conjunction with separate material measures (e.g. balances using standard masses to compare unknown mass), or they may contain internal parts to reproduce the unit (like graduated rules, a precision thread, etc)
+
+**Measuring Range**
+
+- It is the range of values of the measured quantity for which the error obtained from a single measurement under normal conditions of use does not exceed the maximum permissible error.
+- The measuring range is limited by the maximum capacity and the minimum capacity.
+- Maximum capacity is the upper limit of the measuring range and is dictated by the design considerations or by safety requirements or both.
+- Minimum capacity is the lower limit of the measuring range. 
+- It is usually dictated by accuracy requirements. For small values of the measured quantity in the vicinity of zero, the relative error can be considerable even if the absolute error is small.
+
+**Sensitivity** 
+
+- It is the quotient of the increase in observed variable (indicated by pointer and scale) and the corresponding increase in the measured quantity.
+- It is also equal to the length of any scale division divided by the value of that division expressed in terms of the measured quantity.
+The sensitivity may be constant or variable along the scale. 
+
+**Scale Interval** 
+
+- It is the difference between two successive scale marks in units of the measured quantity. (In the case of numerical indication, it is the difference between two consecutive numbers).
+- The scale interval is an important parameter that determines the ability of the instrument to give accurate indication of the value of the measured quantity.
+- The scale spacing, or the length of scale interval, should be convenient, for estimation of fractions.
+
+**Response Time**
+- It is the time which elapses after a sudden change in the measured quantity until the instrument gives an indica- tion differing from the true value by an amount less than a given permissible error.
+Permissible dynamic error
+- The curve showing the change of indication of an instrument due to sudden change of measured quantity can take different forms according to the relation between capacitances that have to be filled, inertia elements and damping elements.
+- When inertia elements are small enough to be negligible, we get first order response which is due to filling the capacitances in the system through finite channels. The curve of change of indication with time in that case is an exponential curve. (Refer Fig. 1.1)
+
+
+![center](https://codimd.web.cern.ch/uploads/upload_c68d39156c5ec7b155260391e1e82d50.jpg)
+
+
+If the inertia forces are not negligible, we get second order response. There are three possibilities of response (Refer Fig. 1.2.) according to the ratio of damping and inertia forces as follows:
+
+![](https://codimd.web.cern.ch/uploads/upload_f0e54d78b5cd4746430029b26c3da5e0.jpg)
+
+1. **Overdamped system:** where the final indication is approached exponentially from one side.
+2. **Under-damped system:** where the pointer ap- proaches the position corresponding to final reading, passes it and makes a number of os- cillations around it before it stops.
+3. **Critically damped system:** where the pointer motion is aperiodic but quicker than in the case of overdamped system.
+
+In all these cases the response time is determined by the intersection of one (or two) lines surrounding the final indication line at a distance equal to the permissible value of dynamic error with the response curve of the instrument.
+
+**Repeatability**
+
+- It is the ability of the measuring instrument to give the same value every time the measurement of a given quantity is repeated.
+
+- Any measurement process effected using a given instrument and method of measurement is subject to a large number of sources of variation like environmental changes, variability in operator performance and in instrument parameters. 
+
+- The repeatability is charactersied by the dispersion of indications when the same quantity is repeatedly measured. 
+
+- The dispersion is described by two limiting values or by the standard deviation.
+
+**Note:** The conditions under which repeatability is tested have to be specified.
