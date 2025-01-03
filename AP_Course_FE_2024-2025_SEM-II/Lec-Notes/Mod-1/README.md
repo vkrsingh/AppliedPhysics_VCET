@@ -87,8 +87,9 @@ Permissible dynamic error
 
 If the inertia forces are not negligible, we get second order response. There are three possibilities of response (Refer Fig. 1.2.) according to the ratio of damping and inertia forces as follows:
 
-![](https://codimd.web.cern.ch/uploads/upload_f0e54d78b5cd4746430029b26c3da5e0.jpg)
+![](https://codimd.web.cern.ch/uploads/upload_f0e54d78b5cd4746430029b26c3da5e0.jpg) 
 
+    
 1. **Overdamped system:** where the final indication is approached exponentially from one side.
 2. **Under-damped system:** where the pointer ap- proaches the position corresponding to final reading, passes it and makes a number of os- cillations around it before it stops.
 3. **Critically damped system:** where the pointer motion is aperiodic but quicker than in the case of overdamped system.
@@ -106,3 +107,29 @@ In all these cases the response time is determined by the intersection of one (o
 - The dispersion is described by two limiting values or by the standard deviation.
 
 **Note:** The conditions under which repeatability is tested have to be specified.
+
+**Precision and Accuracy:**
+
+- Precision is defined as the repeatability of a measuring process, while accuracy is the agreement of the result of a measurement with the true value of the measured quantity. 
+- In most measurements it is the precision which is of greater importance. 
+- The chief concern is with comparing the dimension of measurement relative to each other, it being assumed that the scale used for measurement is a standard and accepted one. This would be clear from the example given below.
+- **Example:** If a carpenter had to cut a board to fit the shelf into two projections in the wall, it does not matter whether his scale is accurate or not, provided he uses the same scale for the measurement of board and the distance between projections in the wall. Here the precision with which he measures two is of importance. Now supposing he had to order for the board from market then it is necessary that the scale used by him and the one in market are in agreement with each other. One way to achieve this is that both use the accurate scales in accordance with the standard scales. In this case, accuracy of the scale is important and it should be manufactured such that its units are in accordance with the standard units set.
+
+The distinction between the precision and accuracy will become clear by the following example (shown in Fig. 1.3), in which several measurements are made on a component by different types of instruments and results plotted.
+
+![](https://codimd.web.cern.ch/uploads/upload_f6af08bdbb7a4311dda367751b24d511.jpg)
+
+From Fig. 1.3, it will be obvious that precision is concerned with a process or a set of measurements, and not a single measurement. 
+
+- In any set of measurements, the individual measurements are scattered about the mean, and the precision tells us to how well the various measurements performed by same instrument on the same component agree with each other. 
+- It will be appreciated that poor repeatability is a sure sign of poor accuracy. Good repeatability of the instrument is a necessary but not a sufficient condition of good accuracy. 
+- Accuracy can be found by taking root mean square of repeatability and systematic error *i.e.* $\rm Accuracy = \sqrt{(repeatability)^2 + (systematic \quad error)^2}$
+
+- Error is the difference between the mean of set of readings on same component and the true value. Less is the error, more accurate is the instrument. Since the true value is never known, uncertainty creeps in, and the magnitude of error must be estimated by other means. 
+
+- The estimate of uncertainty of a measuring process can be made by taking care of systematic and constant errors, and other contributions to the uncertainty due to scatter of the results about the mean.
+
+- So wherever great precision is required in manufacture of mating components, they are manufactured in a single plant, where measurements are taken with same standards and internal measuring precision can achieve the desired results. If they are to be manufactured in different plants and subsequently assembled in another, the accuracy of the measurement of two plants with true standard value is important.
+
+--- 
+
