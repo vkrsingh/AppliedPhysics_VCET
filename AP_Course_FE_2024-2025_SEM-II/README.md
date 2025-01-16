@@ -1,6 +1,6 @@
 # Physics of Measurements and Sensors (BSC2023)
 
-## Repository: AP_Course_FE_2024-2025_SEM-II
+## Repository: EP_Course_FE_2024-2025_SEM-II
 
 ### Course Code: BSC2023
 ### Course Name: Physics of Measurements and Sensors
