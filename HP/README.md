@@ -33,5 +33,3 @@ This repository provides the official link to download the printer driver for th
 If you need any help with installation, please contact the IT support team.
 
 ---
-
-Would you also like me to draft a simple badge or shield (like “Office Use Only” or "Official Link") for your README to make it look a bit fancier? 🎯🚀
